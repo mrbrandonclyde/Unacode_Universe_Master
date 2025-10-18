@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Full Unacode Universe Master"
+git branch -M main
+git remote add origin https://github.com/BrandonClyde/Unacode_Universe_Master.git
+git push -u origin main
