@@ -1,0 +1,5 @@
+*.env
+*.secret
+1_ROOT_ASSETS/bitcoin_proof.txt
+1_ROOT_ASSETS/ethereum_wallet.txt
+10_LOGS/
